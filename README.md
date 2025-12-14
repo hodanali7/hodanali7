@@ -20,7 +20,7 @@ Aspiring Data Scientist with hands-on experience analyzing health data, explorin
 
 | Project | Description | Tech |
 |--------|-------------|------|
-|  | Designed predictive models (logistic regression, random forests) on 10,000+ ICU records from MIMIC-III to identify patient risk | Python, R |
+|[AI-Project-CariCon-2A](https://github.com/Break-Through-Tech-AI-Studio/AI-Project-CariCon-2A)  | Exploring how natural language processing (NLP) and supervised machine learning can be used to predict personality traits from text data | Jupyter |
 |[punnettpy](https://github.com/hodanali7/punnettpy)  | PunnettPy is a Python package designed to help users generate Punnett squares and calculate genotype and phenotype probabilities | Python, Jupyter |
 
 ---
